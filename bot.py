@@ -37,8 +37,7 @@ warnings.filterwarnings('ignore')
 # ================== CONFIGURATION ==================
 API_ID = 35384207
 API_HASH = '09c4bc9de62a417ccdd0c69b33912515'
-BOT_TOKEN = '8959641259:AAEqjmF_o0i7tXbSTpqGdPLgd6az0Ooav_E'
-
+BOT_TOKEN = '8233170998:AAFUEY6Arhcre9Lck9cNyajSs8GUAA-o25Y'
 # Owner & Groups
 OWNER_ID = 8199994609
 DEFAULT_GROUP_ID = -1003694167299

@@ -11,3 +11,4 @@ lxml==5.2.2
 cryptography==42.0.7
 PyJWT==2.8.0
 python-dotenv==1.0.1
+pydantic>=2.10
